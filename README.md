@@ -1,6 +1,6 @@
 # National Data Science Challenge 2019 - Beginner's Category
 
-This is my first Kaggle Competition. My team joined the beginner's category and the task was Product Category Classification using image and title. Performance was evaluated based on the accuracy of the classification results. Our solution achieved an accuracy of `0.76360` on the private leaderboard and we were ranked 25th out of 360 submisions.
+This is my first Kaggle Competition. My team joined the beginner's category and the task was Product Category Classification using image and title. Performance was evaluated based on the accuracy of the classification results. Our solution achieved an accuracy of `0.76360` on the private leaderboard and we were ranked `25th out of 360 submisions`.
 
 Kaggle NDSC : https://www.kaggle.com/c/ndsc-beginner
 
