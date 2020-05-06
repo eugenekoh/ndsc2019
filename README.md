@@ -7,11 +7,11 @@ Kaggle NDSC : https://www.kaggle.com/c/ndsc-beginner
 ## Solution
 
 - **Data Preprocessing**
-  - We tried preprocessing the noisy data by cleaning out numbers, special characters, translating words and correcting errors. However, there were negligible improvements in accuracy
+  - We tried preprocessing the noisy data by cleaning out numbers, special characters, translating words and correcting errors. However, there were negligible improvements in accuracy.
   - A significant portion of the data was mislabelled and we relabeled as much as we could.
 - **Model** 
   - Results on images were disheartening , approximately 20% lower in accuracy compared to text classification. So we focused our attention on text.
   - We monitored training with a weighted F1 score as there were large class imbalances.
-  - Trained text classifer using FastAI with the two architectures provided - AWD_LSTM and Transformer
+  - Trained text classifer using FastAI with the two architectures provided - AWD_LSTM and Transformer.
 - **Model Stacking**
-  - We feed our predictions into a logistic regression for our ensemble
+  - We feed our predictions into a logistic regression for our ensemble.
